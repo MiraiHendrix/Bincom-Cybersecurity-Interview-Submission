@@ -47,3 +47,34 @@ Authentication: Enforce Multi-Factor Authentication (MFA) and strong password po
 Security Headers: Implement Content Security Policy (CSP) and HSTS.
 
 Logging & Monitoring: Enable real-time alerts for failed login attempts or unusual traffic patterns.
+
+10. Key Figures in Technology & Cybersecurity
+a. Kevin Mitnick
+
+Historically known as one of the world's "most wanted" computer hackers after breaking into high-profile corporate networks in the 1990s.
+
+In his later life, he became a highly respected security consultant, author, and public speaker, famously known as the "World's Most Famous Hacker" turned "White Hat."
+
+b. Eugene Kaspersky
+
+A specialist in the field of cryptography and the co-founder and CEO of Kaspersky Lab, a global cybersecurity and anti-virus provider.
+
+He is renowned for his work in identifying and analyzing sophisticated cyber warfare threats and highly complex state-sponsored malware.
+
+c. Linus Torvalds
+
+The creator and principal developer of the Linux kernel, which serves as the foundation for the Linux operating system (including Kali Linux used in cybersecurity).
+
+He is also known for creating Git, the distributed version control system that is now the industry standard for software development and CI/CD pipelines.
+
+d. Bruce Schneier
+
+A world-renowned cryptographer, computer security professional, and author often referred to as a "security guru."
+
+He is famous for his "Schneier on Security" blog and for developing several cryptographic algorithms, such as Blowfish and Twofish.
+
+e. Parisa Tabriz
+
+A prominent computer security expert at Google, where she earned the official title of "Security Princess."
+
+She is known for leading the "Project Zero" team and managing the security of the Google Chrome browser, focusing heavily on proactive defense and "hacker" mindsets to find vulnerabilities.
